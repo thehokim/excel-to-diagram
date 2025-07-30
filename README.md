@@ -1,4 +1,4 @@
-🇰🇵 DPRK Graph Generator – Pyongyang Dark Mode 🇰🇵
+# 🇰🇵 DPRK Graph Generator – Pyongyang Dark Mode 🇰🇵
 
 > _"1772 графика – 1772 победы народа!"_  
 > – Великий Лидер
